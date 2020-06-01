@@ -1,7 +1,7 @@
 # Binary Search Tree(BST)
 
-- Node can have child upto 2 children
-- Value on the right hand side is greater than left hand side
+- Node can have child upto 2 childrens
+- Node value on the right hand side is always greater than left hand side
 
 
 ## Pro
